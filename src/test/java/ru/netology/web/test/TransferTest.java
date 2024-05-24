@@ -1,7 +1,11 @@
-package ru.netology.web;
+package ru.netology.web.test;
 
 import com.codeborne.selenide.Condition;
 import org.junit.jupiter.api.Test;
+import ru.netology.web.page.LoginPageV1;
+import ru.netology.web.data.DataHelper;
+import ru.netology.web.page.DashboardPage;
+import ru.netology.web.page.VerificationPage;
 
 import static com.codeborne.selenide.Selenide.$;
 import static com.codeborne.selenide.Selenide.open;

@@ -1,4 +1,4 @@
-package ru.netology.web;
+package ru.netology.web.data;
 
 import com.codeborne.selenide.SelenideElement;
 import lombok.Value;

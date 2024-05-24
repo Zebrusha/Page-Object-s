@@ -1,6 +1,7 @@
-package ru.netology.web;
+package ru.netology.web.page;
 
-import javax.xml.crypto.Data;
+import ru.netology.web.data.DataHelper;
+import ru.netology.web.page.VerificationPage;
 
 import static com.codeborne.selenide.Selenide.$;
 
